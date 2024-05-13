@@ -4,6 +4,7 @@
   "description": "Basic Exam Program",
   "main": "node.js",
   "scripts": {
+    "start": "nodemon node.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
