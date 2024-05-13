@@ -17,6 +17,9 @@ body {
     position: relative;
     background-color: white;
     font-family: var(--pops);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 :root {
@@ -31,4 +34,21 @@ h1 {
     letter-spacing: 1px;
     font-weight: 700;
     color: black;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1r             
+    widt
+}
+
+#q-n-a {
+    background-color: #f2f1ec;
+    width: 80%;
+    height: 60vh;
+    border: 0 solid transparent;
+    border-radius: 10px;
+    padding: 2rem;
 }
