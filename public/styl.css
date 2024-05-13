@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a, li {
+    text-decoration: none;
+    list-style: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+body {
+    position: relative;
+    background-color: white;
+    font-family: var(--pops);
+}
+
+:root {
+    --pops: "Poppins", sans-serif;
+    --nuns: "Nunito", sans-serif;
+    --monts: "Montserrat", sans-serif;
+    --prompts: "Prompt", sans-serif;
+}
+
+h1 {
+    font-size: 3em;
+    letter-spacing: 1px;
+    font-weight: 700;
+    color: black;
+}
