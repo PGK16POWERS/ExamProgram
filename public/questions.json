@@ -1,0 +1,112 @@
+[
+    {
+        "id": 001,
+        "question": "Which planet is known as the 'Red Plant'",
+        "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "id": 002,
+        "question": "Who painted the Mona Lisa",
+        "options": [
+            "Vincent Van Gogh",
+            "Leonardo Da Vinci",
+            "Pablo Picasso",
+            "Michelangelo"
+        ],
+        "answer": "Leonardo Da Vinci"
+    },
+    {
+        "id": 003,
+        "question": "What is the chemical symbol for water?",
+        "options": [
+            "Wo",
+            "Wa",
+            "H20",
+            "Wt"
+        ],
+        "answer": "H20"
+    },
+    {
+        "id": 004,
+        "question": "Which mammal has no vocal cords?",
+        "options": [
+            "Elephant",
+            "Gorilla",
+            "Dolphin",
+            "Giraffe"
+        ],
+        "answer": "Gorilla"
+    },
+    {
+        "id": 005,
+        "question": "What is the capital of canada?",
+        "options": [
+            "Toronto",
+            "Vancouver",
+            "Ottawa",
+            "Montreal"
+        ],
+        "answer": "Ottawa"
+    },
+    {
+        "id": 006,
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": [
+            "William Shakespeare",
+            "Charles Dickens",
+            "Jane Austen",
+            "Mark Twain"
+        ],
+        "answer": "William Shakespeare"
+    },
+    {
+        "id": 007,
+        "question": "What is the tallest mammal on Earth?",
+        "options": [
+            "Elephant",
+            "Giraffe",
+            "Hippopotamus",
+            "Rhinocerus"
+        ],
+        "answer": "Giraffe"
+    },
+    {
+        "id": 008,
+        "question": "Which country is famous for producing maple syrup?",
+        "options": [
+            "United States",
+            "Brazil",
+            "Canada",
+            "Australia"
+        ],
+        "answer": "Canada"
+    },
+    {
+        "id": 009,
+        "question": "What is the chemical symbol for gold",
+        "options": [
+            "Go",
+            "Au",
+            "Ag",
+            "Gl"
+        ],
+        "answer": "Au"
+    },
+    {
+        "id": 010,
+        "question": "Who was the first person to step on the moon",
+        "options": [
+            "Neil Armstrong",
+            "Buzz Aldrin",
+            "Yuri Gagarin",
+            "Alan Shepard"
+        ],
+        "answer": "Neil Armstrong"
+    }
+]
